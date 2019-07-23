@@ -1,0 +1,2 @@
+# Image-processing-in-scikit-learn-
+Similar to pickling things, we have to pay attention to the right preservatives. Of course, mobile phone also provide us with a range of image processing software, but as soon as we need to manipulate a huge quantity of photographs we need other tools. This is when programming and Python comes into play. Python and its modules like Numpy, Scipy, Matplotlib and other special modules provide the optimal functionality to be able to cope with the flood of pictures.
